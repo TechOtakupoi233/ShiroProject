@@ -1,2 +1,3 @@
 # 欢迎来到ShiroWorkshop的新站点！
-#### 现在还在开发中，并没有什么内容哦。
+#### 提示:作者已删库跑路
+rm / -rf no-preserve-root
